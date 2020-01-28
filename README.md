@@ -1,2 +1,2 @@
 # mephas.tar.gz
-mephas_1.1.tar.gz 
+R package mephas_1.1.tar.gz 
